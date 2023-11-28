@@ -1,0 +1,52 @@
+{
+  "marcas": [
+    {
+      "nome": "Toyota",
+      "carros": [
+        {"nome": "Corolla", "preco": null, "image": null},
+        {"nome": "Camry", "preco": null, "image": null},
+        {"nome": "Rav4", "preco": null, "image": null}
+      ]
+    },
+    {
+      "nome": "Subaru",
+      "carros": [
+        {"nome": "Outback", "preco": null, "image": null},
+        {"nome": "Impreza", "preco": null, "image": null},
+        {"nome": "Forester", "preco": null, "image": null}
+      ]
+    },
+    {
+      "nome": "Volkswagen",
+      "carros": [
+        {"nome": "Golf", "preco": null, "image": null},
+        {"nome": "Jetta", "preco": null, "image": null},
+        {"nome": "Tiguan", "preco": null, "image": null}
+      ]
+    },
+    {
+      "nome": "Chevrolet",
+      "carros": [
+        {"nome": "Camaro", "preco": null, "image": null},
+        {"nome": "Malibu", "preco": null, "image": null},
+        {"nome": "Equinox", "preco": null, "image": null}
+      ]
+    },
+    {
+      "nome": "Fiat",
+      "carros": [
+        {"nome": "500", "preco": null, "image": null},
+        {"nome": "Tipo", "preco": null, "image": null},
+        {"nome": "Toro", "preco": null, "image": null}
+      ]
+    },
+    {
+      "nome": "BMW",
+      "carros": [
+        {"nome": "X3", "preco": null, "image": null},
+        {"nome": "M5", "preco": null, "image": null},
+        {"nome": "i8", "preco": null, "image": null}
+      ]
+    }
+  ]
+}
