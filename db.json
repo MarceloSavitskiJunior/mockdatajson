@@ -3,49 +3,121 @@
     {
       "nome": "Toyota",
       "carros": [
-        {"nome": "Corolla", "preco": null, "image": null},
-        {"nome": "Camry", "preco": null, "image": null},
-        {"nome": "Rav4", "preco": null, "image": null}
+        {
+          "nome": "Supra",
+          "preco": 90000,
+          "image": null
+        },
+        {
+          "nome": "GR Yaris",
+          "preco": 80000,
+          "image": null
+        },
+        {
+          "nome": "GR86",
+          "preco": 85000,
+          "image": null
+        }
       ]
     },
     {
       "nome": "Subaru",
       "carros": [
-        {"nome": "Outback", "preco": null, "image": null},
-        {"nome": "Impreza", "preco": null, "image": null},
-        {"nome": "Forester", "preco": null, "image": null}
+        {
+          "nome": "BRZ",
+          "preco": 95000,
+          "image": null
+        },
+        {
+          "nome": "WRX STI",
+          "preco": 120000,
+          "image": null
+        },
+        {
+          "nome": "Impreza WRX",
+          "preco": 100000,
+          "image": null
+        }
       ]
     },
     {
       "nome": "Volkswagen",
       "carros": [
-        {"nome": "Golf", "preco": null, "image": null},
-        {"nome": "Jetta", "preco": null, "image": null},
-        {"nome": "Tiguan", "preco": null, "image": null}
+        {
+          "nome": "Golf R",
+          "preco": 85000,
+          "image": null
+        },
+        {
+          "nome": "Arteon",
+          "preco": 90000,
+          "image": null
+        },
+        {
+          "nome": "ID.4 GTX",
+          "preco": 95000,
+          "image": null
+        }
       ]
     },
     {
       "nome": "Chevrolet",
       "carros": [
-        {"nome": "Camaro", "preco": null, "image": null},
-        {"nome": "Malibu", "preco": null, "image": null},
-        {"nome": "Equinox", "preco": null, "image": null}
+        {
+          "nome": "Corvette",
+          "preco": 140000,
+          "image": null
+        },
+        {
+          "nome": "Camaro ZL1",
+          "preco": 160000,
+          "image": null
+        },
+        {
+          "nome": "Blazer RS",
+          "preco": 110000,
+          "image": null
+        }
       ]
     },
     {
       "nome": "Fiat",
       "carros": [
-        {"nome": "500", "preco": null, "image": null},
-        {"nome": "Tipo", "preco": null, "image": null},
-        {"nome": "Toro", "preco": null, "image": null}
+        {
+          "nome": "124 Spider",
+          "preco": 70000,
+          "image": null
+        },
+        {
+          "nome": "Abarth 595",
+          "preco": 65000,
+          "image": null
+        },
+        {
+          "nome": "Tipo S-Design",
+          "preco": 60000,
+          "image": null
+        }
       ]
     },
     {
       "nome": "BMW",
       "carros": [
-        {"nome": "X3", "preco": null, "image": null},
-        {"nome": "M5", "preco": null, "image": null},
-        {"nome": "i8", "preco": null, "image": null}
+        {
+          "nome": "M4",
+          "preco": 130000,
+          "image": null
+        },
+        {
+          "nome": "i4 M50",
+          "preco": 140000,
+          "image": null
+        },
+        {
+          "nome": "X6 M",
+          "preco": 160000,
+          "image": null
+        }
       ]
     }
   ]
