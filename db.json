@@ -126,19 +126,19 @@
       "name": "Ford Mustang 1969",
       "description": "Um clássico americano, o Ford Mustang 1969 é sinônimo de potência e estilo.",
       "year": 1969,
-      "imagePath": "../exposicao-carros/assets/img/carros/mustang.jpg"
+      "imagePath": "../landingpage-brisa/assets/img/carros/mustang.jpg"
     },
     {
       "name": "Ford New Fiesta RS 2016",
       "description": "Compacto, ágil e esportivo, o Ford New Fiesta RS 2016 oferece uma experiência de condução emocionante.",
       "year": 2016,
-      "imagePath": "../exposicao-carros/assets/img/carros/nw_fiesta.jpg"
+      "imagePath": "../landingpage-brisa/assets/img/carros/nw_fiesta.jpg"
     },
     {
       "name": "Toyota Hilux GR-S III 2024",
       "description": "Robustez e modernidade definem a Toyota Hilux GR-S III 2024, ideal para qualquer aventura.",
       "year": 2024,
-      "imagePath": "../exposicao-carros/assets/img/carros/hilux.jpg"
+      "imagePath": "../landingpage-brisa/assets/img/carros/hilux.jpg"
     }
   ]
 }
