@@ -146,61 +146,71 @@
       "name": "CITRÖEN XSARA PICASSO 2012",
       "description": "",
       "year": 2012,
-      "imagePath": "../img/carros/picasso.png"
+      "imagePath": "../img/carros/picasso.png",
+      "price": "R$ 25.990,00" 
     },
     {
       "name": "HONDA FIT LX 2011",
       "description": "Compacto, ágil e econômico, ideal para jovens e famílias.",
       "year": 2011,
       "imagePath": "../img/carros/fit.png"
+      "price": "R$ 39.990,00" 
     },
     {
       "name": "VW GOL 2012",
       "description": "",
       "year": 2012,
       "imagePath": "../img/carros/gol.png"
+      "price": "R$ 23.990,00" 
     },
     {
       "name": "CARAVAN COMODORO 250 1988",
       "description": "Para os amantes de carros antigos...",
       "year": 1988,
       "imagePath": "../img/carros/caravan.png"
+      "price": "R$ 29.990,00" 
     },
     {
       "name": "TOYOTA COROLLA AUTIS 2018",
       "description": "Confortável, forte e elegante. Simplesmente o sonho de toda pessoa de família.",
       "year": 2018,
       "imagePath": "../img/carros/corolla2018.png"
+      "price": "R$ 109.990,00" 
     },
     {
       "name": "TOYOTA HILUX D4D 2015",
       "description": "",
       "year": 2015,
       "imagePath": "../img/carros/hilux-veia.png"
+      "price": "R$ 119.990,00" 
     },
     {
       "name": "TOYOTA COROLLA XEI 2003",
       "description": "",
       "year": 2003,
       "imagePath": "../img/carros/corolla2003.png"
+      "price": "R$ 32.990,00" 
     },
     {
       "name": "SUZUKI BURGMAN 2001",
       "description": "",
       "year": 2001,
       "imagePath": "../img/carros/burgman.png"
+      "price": "R$ 11.990,00" 
     },
     {
       "name": "HONDA BIZ ES 2009",
       "description": "",
       "year": 2009,
       "imagePath": "../img/carros/biz.png"
+      "price": "R$ 9.890,00" 
     },
     {
       "name": "HONDA CG150 ES 2010",
       "description": "",
       "year": 2010,
       "imagePath": "../img/carros/cg.png"
+      "price": "R$ 9.490,00" 
     }
   ]
 }
