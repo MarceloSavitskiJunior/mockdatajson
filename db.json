@@ -140,5 +140,67 @@
       "year": 2024,
       "imagePath": "./assets/img/carros/hilux.jpg"
     }
+  ],
+  "estoque": [
+    {
+      "name": "CITRÖEN XSARA PICASSO 2012",
+      "description": "",
+      "year": 2012,
+      "imagePath": "../img/carros/picasso.png"
+    },
+    {
+      "name": "HONDA FIT LX 2011",
+      "description": "Compacto, ágil e econômico, ideal para jovens e famílias.",
+      "year": 2011,
+      "imagePath": "../img/carros/fit.png"
+    },
+    {
+      "name": "VW GOL 2012",
+      "description": "",
+      "year": 2012,
+      "imagePath": "../img/carros/gol.png"
+    },
+    {
+      "name": "CARAVAN COMODORO 250 1988",
+      "description": "Para os amantes de carros antigos...",
+      "year": 1988,
+      "imagePath": "../img/carros/caravan.png"
+    },
+    {
+      "name": "TOYOTA COROLLA AUTIS 2018",
+      "description": "Confortável, forte e elegante. Simplesmente o sonho de toda pessoa de família.",
+      "year": 2018,
+      "imagePath": "../img/carros/corolla2018.png"
+    },
+    {
+      "name": "TOYOTA HILUX D4D 2015",
+      "description": "",
+      "year": 2015,
+      "imagePath": "../img/carros/hilux-veia.png"
+    },
+    {
+      "name": "TOYOTA COROLLA XEI 2003",
+      "description": "",
+      "year": 2003,
+      "imagePath": "../img/carros/corolla2003.png"
+    },
+    {
+      "name": "SUZUKI BURGMAN 2001",
+      "description": "",
+      "year": 2001,
+      "imagePath": "../img/carros/burgman.png"
+    },
+    {
+      "name": "HONDA BIZ ES 2009",
+      "description": "",
+      "year": 2009,
+      "imagePath": "../img/carros/biz.png"
+    },
+    {
+      "name": "HONDA CG150 ES 2010",
+      "description": "",
+      "year": 2010,
+      "imagePath": "../img/carros/cg.png"
+    }
   ]
 }
